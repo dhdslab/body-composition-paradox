@@ -1,0 +1,10 @@
+# raw data and participant-level intermediates are never committed
+data/
+work/
+results_*/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+~$*
+.DS_Store
