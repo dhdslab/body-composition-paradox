@@ -2,7 +2,7 @@
 
 Analysis code and aggregated results for the manuscript
 *"Body Composition Paradox: Shifting Reference Standards and Limited Added Value of Estimates in
-Disease Prediction"* (Kim *et al.*, under review).
+Disease Prediction"*.
 
 The study uses the **Korea National Health and Nutrition Examination Survey (KNHANES) 2008–2024** to
 ask two questions about body composition estimated from routine measurements:
