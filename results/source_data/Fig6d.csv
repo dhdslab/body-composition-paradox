@@ -1,0 +1,10 @@
+endpoint,quantity,percent
+Diabetes,Observed,14.78204237288091
+Diabetes,"Predicted, transported model",9.491823829114809
+Diabetes,"Predicted, 2024 model",14.81067716065053
+Hypertension,Observed,30.98002988220059
+Hypertension,"Predicted, transported model",36.522602424541454
+Hypertension,"Predicted, 2024 model",31.07137180193364
+Dyslipidaemia,Observed,30.563757852669337
+Dyslipidaemia,"Predicted, transported model",9.38026391782327
+Dyslipidaemia,"Predicted, 2024 model",30.599879824034286

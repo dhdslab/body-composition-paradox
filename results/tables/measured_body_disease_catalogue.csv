@@ -1,0 +1,50 @@
+﻿disease,label,status,train_n,train_events,test_n,test_events
+DC11_pr,기타암1 현재 유병 여부,Heterogeneous or changing definition,10456,68,5809,22
+DC12_pr,기타암2 현재 유병 여부,Heterogeneous or changing definition,10456,1,5809,1
+DC13_pr,기타암3 현재 유병여부,Heterogeneous or changing definition,0,0,5809,1
+DC1_pr,위암 현재 유병여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,21,5807,16
+DC2_pr,간암 현재 유병여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,11,5807,6
+DC3_pr,대장암 현재 유병여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,6,5807,4
+DC4_pr,유방암 현재 유병여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,11,5807,14
+DC5_pr,자궁경부암 현재 유병여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",5967,5,3295,2
+DC6_pr,폐암 현재 유병여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,8,5807,6
+DC7_pr,갑상선암 현재 유병여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",0,0,5807,16
+DE1_pr,당뇨병 현재 유병 여부,Evaluated,10456,716,5810,425
+DE2_pr,갑상선 질환 현재 유병 여부,Evaluated,10456,168,5807,105
+DF2_pr,우울증 현재 유병 여부,Evaluated,10456,210,5808,90
+DH1_pr,"백내장, 녹내장 현재 유병 여부","Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,553,0,0
+DH2_pr,백내장 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,497,0,0
+DH3_pr,녹내장 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,73,0,0
+DH4_pr,중이염 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,68,0,0
+DH6_pr,황반변성 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",0,0,0,0
+DH7_pr,당뇨망막병증 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",0,0,0,0
+DI1_pr,고혈압 현재 유병 여부,Evaluated,10456,1996,5811,1212
+DI2_pr,이상지질혈증 현재 유병 여부,Evaluated,10456,533,5810,384
+DI3_pr,뇌졸중 현재 유병 여부,Evaluated,10456,142,5810,57
+DI4_pr,심근경색증 또는 협심증 현재 유병 여부,Evaluated,10456,164,5810,161
+DI5_pr,심근경색증 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,68,5810,36
+DI6_pr,협심증 현재 유병 여부,Evaluated,10456,100,5810,104
+DI8_pr,치질(치핵) 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,260,0,0
+DJ1_pr,결핵 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,20,0,0
+DJ2_pr,폐결핵 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,19,5810,4
+DJ3_pr,폐외결핵 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,1,0,0
+DJ4_pr,천식 현재 유병 여부,Evaluated,10456,198,5810,102
+DJ5_pr,만성폐쇄성 폐질환 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,49,0,0
+DJ6_pr,부비동염 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,185,0,0
+DJ7_pr,기관지 확장증 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,20,0,0
+DJ8_pr,알레르기비염 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,713,0,0
+DK2_pr,위십이지장궤양 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,132,0,0
+DK4_pr,간경변증 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,14,5807,14
+DK7_pr,턱관절질환 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,94,0,0
+DK8_pr,B형간염 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,46,5808,31
+DK9_pr,C형간염 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,5,5808,4
+DL1_pr,아토피피부염 현재 유병 여부,Evaluated,10456,171,5808,70
+DL2_pr,빈혈 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,325,0,0
+DM1_pr,관절염 현재 유병 여부,Evaluated,10456,1231,5809,741
+DM2_pr,골관절염 현재 유병 여부,Evaluated,10456,1073,5809,549
+DM3_pr,류마티스성 관절염 현재 유병 여부,Evaluated,10456,187,5809,86
+DM4_pr,골다공증 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,573,0,0
+DM6_pr,요통 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,1348,0,0
+DM8_pr,통풍 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",0,0,0,0
+DN1_pr,콩팥병(신장질환) 현재 유병 여부,Heterogeneous or changing definition,10456,30,5808,10
+DN2_pr,요실금 현재 유병 여부,"Fewer than 100 development or 30 temporal-test cases, or outcome unavailable",10456,100,0,0

@@ -1,0 +1,13 @@
+﻿Endpoint,Model,AUROC (95% CI),Brier score,Calibration intercept,Calibration slope
+Diabetes,A,0.814 (0.803–0.825),0.071,0.02,0.96
+Diabetes,B,0.866 (0.855–0.875),0.064,−0.03,1.12
+Diabetes,C,0.948 (0.942–0.953),0.043,0.08,1.06
+Diabetes,D,0.948 (0.942–0.953),0.043,0.08,1.06
+Hypertension,A,0.859 (0.852–0.867),0.114,−0.04,0.97
+Hypertension,B,0.862 (0.855–0.870),0.113,−0.06,0.97
+Hypertension,C,0.882 (0.876–0.889),0.105,−0.07,0.98
+Hypertension,D,0.882 (0.876–0.889),0.105,−0.08,0.97
+Dyslipidaemia,A,0.818 (0.810–0.826),0.112,0.44,1.18
+Dyslipidaemia,B,0.825 (0.818–0.834),0.109,0.42,1.13
+Dyslipidaemia,C,0.879 (0.871–0.886),0.094,0.37,1.26
+Dyslipidaemia,D,0.878 (0.871–0.886),0.093,0.36,1.23

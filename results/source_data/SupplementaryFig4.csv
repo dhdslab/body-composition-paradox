@@ -1,0 +1,61 @@
+disease,endpoint,analysis,decile,n,predicted,observed
+DE1_pr,Diabetes,2024 internal PSU cross-validation,1,326,0.0317849252136626,0.0283177886722107
+DE1_pr,Diabetes,2024 internal PSU cross-validation,2,325,0.0526286196137616,0.0605066788221679
+DE1_pr,Diabetes,2024 internal PSU cross-validation,3,325,0.0740998529606445,0.052943704059203
+DE1_pr,Diabetes,2024 internal PSU cross-validation,4,325,0.0993833031750671,0.1281825727617574
+DE1_pr,Diabetes,2024 internal PSU cross-validation,5,325,0.1291917869799174,0.1175278990823747
+DE1_pr,Diabetes,2024 internal PSU cross-validation,6,325,0.1600194971307819,0.1611409122107991
+DE1_pr,Diabetes,2024 internal PSU cross-validation,7,325,0.1909957087019657,0.1927857575725173
+DE1_pr,Diabetes,2024 internal PSU cross-validation,8,325,0.2256074206805844,0.1988230605227094
+DE1_pr,Diabetes,2024 internal PSU cross-validation,9,325,0.2670675342899269,0.2888563829374075
+DE1_pr,Diabetes,2024 internal PSU cross-validation,10,326,0.3674677311589124,0.3676545430526169
+DE1_pr,Diabetes,Historical model transported to 2024,1,326,0.0144598097403606,0.0346175033493571
+DE1_pr,Diabetes,Historical model transported to 2024,2,325,0.0281621638238694,0.0469844673450154
+DE1_pr,Diabetes,Historical model transported to 2024,3,325,0.0441205712295113,0.0560363168458741
+DE1_pr,Diabetes,Historical model transported to 2024,4,325,0.0614967494454643,0.146283736705727
+DE1_pr,Diabetes,Historical model transported to 2024,5,325,0.0786411601543188,0.1105232699338856
+DE1_pr,Diabetes,Historical model transported to 2024,6,325,0.0973738448259501,0.1234827088183636
+DE1_pr,Diabetes,Historical model transported to 2024,7,325,0.118067458487589,0.1510933526788051
+DE1_pr,Diabetes,Historical model transported to 2024,8,325,0.1425263246761781,0.191523805229213
+DE1_pr,Diabetes,Historical model transported to 2024,9,325,0.1766468664815189,0.2943957712398243
+DE1_pr,Diabetes,Historical model transported to 2024,10,326,0.2499727942300495,0.4134039933210114
+DI1_pr,Hypertension,2024 internal PSU cross-validation,1,326,0.0367310120358494,0.0150175411014351
+DI1_pr,Hypertension,2024 internal PSU cross-validation,2,325,0.095689467427959,0.0796561464842066
+DI1_pr,Hypertension,2024 internal PSU cross-validation,3,325,0.1608341220900575,0.1996293232954345
+DI1_pr,Hypertension,2024 internal PSU cross-validation,4,325,0.2221829660915339,0.2392152420453642
+DI1_pr,Hypertension,2024 internal PSU cross-validation,5,326,0.2874455954396758,0.3379569406053996
+DI1_pr,Hypertension,2024 internal PSU cross-validation,6,325,0.3576752217289432,0.3755544025900683
+DI1_pr,Hypertension,2024 internal PSU cross-validation,7,325,0.4301421099286769,0.3907072475597684
+DI1_pr,Hypertension,2024 internal PSU cross-validation,8,325,0.5040560804932125,0.4853845825603267
+DI1_pr,Hypertension,2024 internal PSU cross-validation,9,325,0.5909371963967227,0.5792308042977352
+DI1_pr,Hypertension,2024 internal PSU cross-validation,10,326,0.7152277800116414,0.6743083680001299
+DI1_pr,Hypertension,Historical model transported to 2024,1,326,0.0690278167065612,0.0117006874446291
+DI1_pr,Hypertension,Historical model transported to 2024,2,325,0.1401905805472365,0.0774717700199661
+DI1_pr,Hypertension,Historical model transported to 2024,3,325,0.2158667952401084,0.1777725559280706
+DI1_pr,Hypertension,Historical model transported to 2024,4,325,0.2910925114127194,0.2577617797295179
+DI1_pr,Hypertension,Historical model transported to 2024,5,326,0.3630443036517395,0.2899468782487559
+DI1_pr,Hypertension,Historical model transported to 2024,6,325,0.4337368428359575,0.3793691514072357
+DI1_pr,Hypertension,Historical model transported to 2024,7,325,0.4954901079498252,0.4425983569858157
+DI1_pr,Hypertension,Historical model transported to 2024,8,325,0.5461851772945906,0.5143015495893355
+DI1_pr,Hypertension,Historical model transported to 2024,9,325,0.6129675432734369,0.5474737000989135
+DI1_pr,Hypertension,Historical model transported to 2024,10,326,0.7293555101950006,0.6360511951321361
+DI2_pr,Dyslipidaemia,2024 internal PSU cross-validation,1,326,0.0534706319619931,0.0572154769540641
+DI2_pr,Dyslipidaemia,2024 internal PSU cross-validation,2,325,0.1134320373359573,0.122783061521816
+DI2_pr,Dyslipidaemia,2024 internal PSU cross-validation,3,325,0.1794866269205838,0.1699436136883846
+DI2_pr,Dyslipidaemia,2024 internal PSU cross-validation,4,325,0.2526595251864331,0.3030448628916486
+DI2_pr,Dyslipidaemia,2024 internal PSU cross-validation,5,326,0.3207776419101437,0.2843801700909881
+DI2_pr,Dyslipidaemia,2024 internal PSU cross-validation,6,325,0.3847386254306354,0.3207947716028755
+DI2_pr,Dyslipidaemia,2024 internal PSU cross-validation,7,325,0.4363438987973448,0.4982837016584547
+DI2_pr,Dyslipidaemia,2024 internal PSU cross-validation,8,325,0.4844219704447035,0.4867486401659345
+DI2_pr,Dyslipidaemia,2024 internal PSU cross-validation,9,325,0.5368813140902547,0.537593225057175
+DI2_pr,Dyslipidaemia,2024 internal PSU cross-validation,10,326,0.6067066254392934,0.5788927263445072
+DI2_pr,Dyslipidaemia,Historical model transported to 2024,1,326,0.029357715066202,0.0754027537603512
+DI2_pr,Dyslipidaemia,Historical model transported to 2024,2,325,0.0465850085620894,0.1613659115453078
+DI2_pr,Dyslipidaemia,Historical model transported to 2024,3,325,0.06002701695099,0.2200522985851618
+DI2_pr,Dyslipidaemia,Historical model transported to 2024,4,325,0.0727149431053306,0.2681986348778764
+DI2_pr,Dyslipidaemia,Historical model transported to 2024,5,326,0.0847348264777369,0.3246331302312746
+DI2_pr,Dyslipidaemia,Historical model transported to 2024,6,325,0.0963227585633655,0.3463404906368592
+DI2_pr,Dyslipidaemia,Historical model transported to 2024,7,325,0.1070510523051584,0.4248913386657145
+DI2_pr,Dyslipidaemia,Historical model transported to 2024,8,325,0.1199660700600728,0.4039416167730189
+DI2_pr,Dyslipidaemia,Historical model transported to 2024,9,325,0.1351318635812258,0.4503377394821503
+DI2_pr,Dyslipidaemia,Historical model transported to 2024,10,326,0.1819282774654529,0.4169088314179911

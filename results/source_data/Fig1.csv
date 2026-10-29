@@ -1,0 +1,40 @@
+box,role
+"KNHANES 2008–2010 survey participants (n = 29,235)",src
+"Aged <19 years (n = 7,424)",exc
+Known pregnancy (n = 133),exc
+"Incomplete anthropometry or nonpositive examination weight (n = 1,295)",exc
+"No DXA examination (n = 3,918)",exc
+Incomplete or implausible DXA values (n = 121),exc
+"DXA cohort, 2008–2010 (n = 16,344)",coh
+"KNHANES 2024 survey participants (n = 6,997)",src
+Aged <19 years (n = 964),exc
+Known pregnancy (n = 16),exc
+Incomplete anthropometry or nonpositive examination weight (n = 229),exc
+"Aged 19–39 years, not eligible for DXA in 2024 (n = 1,312)",exc
+"No DXA examination (n = 1,223)",exc
+"2024 DXA test cohort, aged ≥40 years (n = 3,253)",test
+"Development, 2008–2009 (n = 10,474)",dev
+"Tuning, 2010 (n = 5,870)",tune
+Models refitted in 2008–2010 and frozen,dev
+Frozen historical models tested,test
+"Refitted 2024 models, fivefold PSU CV",test
+"Paired BIA and DXA (n = 3,186)",test
+"KNHANES 2011–2018 participants (n = 63,793)",src
+"Aged <19 years (n = 13,511)",exc
+Known pregnancy (n = 227),exc
+"Incomplete anthropometry or nonpositive examination weight (n = 2,672)",exc
+"Development cohort (n = 47,383)",dev
+"KNHANES 2019–2021 participants (n = 22,559)",src
+"Aged <19 years (n = 3,868)",exc
+Known pregnancy (n = 50),exc
+"Incomplete anthropometry or nonpositive examination weight (n = 1,068)",exc
+"Temporal test cohort (n = 17,573)",test
+"KNHANES 2022–2024 participants (n = 20,191)",src
+"Aged <19 years (n = 2,929)",exc
+Known pregnancy (n = 53),exc
+Incomplete anthropometry or nonpositive examination weight (n = 759),exc
+"Later test cohort (n = 16,450)",test
+"Fitting, 2011–2016 (n = 35,102)",dev
+"Tuning, 2017–2018 (n = 12,281)",tune
+25 of 49 current-disease items evaluated,test
+"Diabetes, hypertension and dyslipidaemia (3 endpoints)",test
